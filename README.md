@@ -1,6 +1,6 @@
 # Easy Math App
 
-create-react-app
+React with create-react-app
 
 Process:
 
