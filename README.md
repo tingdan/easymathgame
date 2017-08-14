@@ -1,5 +1,7 @@
 # Easy Math App
 
+### Find the sum of two numbers
+
 React with create-react-app
 
 Process:
